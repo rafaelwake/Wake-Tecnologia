@@ -1,3 +1,3 @@
 # Wake Tecnologia web site
 
-## Developer by Rafael
+## Developed by Rafael
